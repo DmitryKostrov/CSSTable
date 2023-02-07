@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name_program{
+    background: linear-gradient(140deg, rgba(216, 213, 39) 25%,rgb(223, 104, 8) 75%);
+    text-align: center;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
